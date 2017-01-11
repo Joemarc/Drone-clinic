@@ -1,0 +1,16 @@
+seb:
+  owner_name: Réparation
+  picture: repair.jpg
+  description: Avec le Parrot AR.Drone 2.0 GPS Edition, l’enregistreur de vol Flight Recorder est directement inclus et vous donne accès à de nouvelles fonctionnalités ! Géolocalisation, amélioration de la stabilité, choix d’un point de destination, enregistrement des vols et des vidéos... Dans la section AR.Drone Academy de votre application mobile, vous pouvez même revoir tous vos vols modélisés en 3D.
+  name: Réparez rapidement
+
+
+Romain:
+  owner_name: Trouvez votre pièce
+  picture: pieces.jpg
+  description:
+  owner_picture: pieces.jpg
+  name: Trouvez vos pièces !
+
+
+
